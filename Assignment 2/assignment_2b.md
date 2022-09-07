@@ -1,4 +1,5 @@
-### QUESTION 1
+## QUESTION 1  
+### Dewei Yu  
 ```
 public class AddMyAlphas{
 public static int Add(String numbers) throw NegativeIntergerException{
