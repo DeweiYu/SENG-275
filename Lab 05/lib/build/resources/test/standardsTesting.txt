@@ -1,0 +1,17 @@
+Which standards tool did you use?
+we used the google Lighthouse as a standard tool.
+
+
+
+Name any ONE TEST that passed, and describe why that test is important, in your own words.
+What would be the problem if the test had failed?
+All Test has failed
+It might came to with the syntax error
+
+
+
+
+Name any ONE TEST that failed (yellow or red) and explain why the failed test suggest
+there's a problem with the website.  Who is it a problem for?  What kinds of obstacles
+could this issue present?
+
