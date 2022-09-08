@@ -1,0 +1,14 @@
+Title:errors in the SpecificationTEST
+Submitter:Dewei Yu
+email address:Leonardyu06@gmail.com
+
+Summary of bug: The entering of the number for the licence plate for should only take up 6 characters but it has taken the 7 characters and return true
+
+Expected behaviour:Return false for the license plate, it should get rejected
+
+Actual behaviour: Return True for the license plate, It was acceptable for the machine
+
+Steps to Reproduce:
+
+Severity:
+
